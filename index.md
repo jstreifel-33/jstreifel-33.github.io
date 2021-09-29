@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my Github Page!
 
-You can use the [editor on GitHub](https://github.com/jstreifel-33/jstreifel-33.gituhub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Joseph Streifel and you've landed on my github.io main page. If you're trying to reach my profile, you can find it here: [jstreifel-33](https://github.com/jstreifel-33)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While you're here, feel free to browse my projects or study notes from my journey as a developer.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Bus-Mall Customer Survey](https://jstreifel-33.github.io/bus-mall/index.html)
+* [Pat's Famous Salmon Cookies](https://jstreifel-33.github.io/cookie-stand/index.html)
+* [About Me Guessing Game](https://jstreifel-33.github.io/guessing-game/index.html)
+* [B.I.R.D. Home Page](https://jstreifel-33.github.io/CF-Lab-102-04/)
 
-```markdown
-Syntax highlighted code block
+### Notes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jstreifel-33/jstreifel-33.gituhub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Code Fellows Reading Notes](https://jstreifel-33.github.io/reading-notes/)
